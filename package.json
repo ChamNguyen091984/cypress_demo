@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "cypress-shadow-dom": "^1.4.1"
+  }
+}
